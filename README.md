@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### this is a 2nd account from my main accout '[lemodoescoding](https://github.com/lemodoescoding)'
+
 <!--
 **lemo2nd/lemo2nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
