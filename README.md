@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[!TIP]
+> [!TIP]
 > this is a 2nd account from my main account '[lemodoescoding](https://github.com/lemodoescoding)'
 > check out that account, since this is just acting like a dummy account or i will create something here if necessary
 
